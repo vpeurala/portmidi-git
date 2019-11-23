@@ -274,7 +274,7 @@
 			buildConfigurationList = 89D0F04B0F393AB7007831A7 /* Build configuration list for PBXLegacyTarget "Compile Java" */;
 			buildPhases = (
 			);
-			buildToolPath = /usr/bin/ant;
+			buildToolPath = /usr/local/bin/ant;
 			buildWorkingDirectory = "";
 			dependencies = (
 				3DE2145E124666900033C839 /* PBXTargetDependency */,

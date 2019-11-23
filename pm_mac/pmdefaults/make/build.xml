@@ -56,7 +56,7 @@
 	</target>
 	
 	<target name="compile" depends="init" description="Compile">
-		<javac destdir="${obj}/${product}" deprecation="on" source="1.5" target="1.5" fork="true" debug="true" debuglevel="lines,source">
+		<javac destdir="${obj}/${product}" deprecation="on" source="1.6" target="6" fork="true" debug="true" debuglevel="lines,source">
 			<src path="${src}/java"/>
 			<classpath path="${src}/../lib/eawt-stubs.jar"/>
 		</javac>
