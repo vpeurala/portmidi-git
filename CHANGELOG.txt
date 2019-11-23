@@ -1,5 +1,8 @@
 /* CHANGELOG FOR PORTMIDI
  *
+ * 23Nov19 Ville Peurala
+ * - Remove i386 and ppc target architectures from the macOS build.
+ *
  * 19Oct09 Roger Dannenberg
  * - Changes dynamic library names from portmidi_d to portmidi to
  *   be backward-compatible with programs expecting a library by
